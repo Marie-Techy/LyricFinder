@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+}
